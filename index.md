@@ -4,11 +4,11 @@
 
 ### Projects
 
-[Senior Capstone](/sample_page)
+[Senior Capstone](https://github.com/Mirandashelt/Capstone)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Sophomore Capstone](/pdf/sample_presentation.pdf)
+[Sophomore Capstone](https://github.com/coronary/SE350Final)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
