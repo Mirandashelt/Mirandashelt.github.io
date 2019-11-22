@@ -19,14 +19,14 @@
 
 ### Relevant Courses
 
-- [Algorithms]
-- [Computer Systems]
-- [Data Analysis]
-- [Data Structures]
-- [Programming Language Concepts]
-- [Object-Oriented Software
-Development]
-- [Mobile Application Development]
+- Algorithms
+- Computer Systems
+- Data Analysis
+- Data Structures
+- Programming Language Concepts
+- Object-Oriented Software
+Development
+- Mobile Application Development
 
 ---
 
